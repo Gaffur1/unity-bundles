@@ -8,7 +8,7 @@
       "location": "calismaodasi",
       "roomId": "calisma_01",
       "pos": { "x": 12.3, "y": 0.0, "z": 4.5 },
-      "fixed": true
+      "fixedDevice": true
     },
     {
       "mac": "2C:D2:6B:69:43:05",
@@ -16,7 +16,7 @@
       "location": "salon",
       "roomId": "salon_01",
       "pos": { "x": 5.2, "y": 0.0, "z": 6.8 },
-      "fixed": true,
+      "fixedDevice": true,
       "assoc_aps": ["6C:44:2A:92:B7:D0"]
     },
     {
@@ -25,7 +25,7 @@
       "location": "yatakodasi",
       "roomId": "yatak_01",
       "pos": { "x": 2.0, "y": 0.0, "z": 3.5 },
-      "fixed": true
+      "fixedDevice": true
     },
     {
       "mac": "1C:BF:CE:50:1A:A0",
@@ -33,7 +33,7 @@
       "location": "calismaodasi",
       "roomId": "calisma_01",
       "pos": { "x": 13.0, "y": 0.0, "z": 4.0 },
-      "fixed": true
+      "fixedDevice": true
     },
     {
       "mac": "34:12:F9:72:84:81",
@@ -41,7 +41,7 @@
       "location": "balkon",
       "roomId": "balkon_01",
       "pos": { "x": 0.5, "y": 0.0, "z": 1.2 },
-      "fixed": true
+      "fixedDevice": true
     },
     {
       "mac": "B2:E6:45:EF:15:0A",
@@ -49,7 +49,7 @@
       "location": "koridor",
       "roomId": "koridor_01",
       "pos": { "x": 7.0, "y": 0.0, "z": 2.2 },
-      "fixed": true
+      "fixedDevice": true
     }
   ]
 }
