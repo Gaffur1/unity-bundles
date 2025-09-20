@@ -1,0 +1,55 @@
+{
+  "version": "v1",
+  "building": "ev1",
+  "devices": [
+    {
+      "mac": "6C:44:2A:92:B7:D0",
+      "type": "AP",
+      "location": "calismaodasi",
+      "roomId": "calisma_01",
+      "pos": [12.3, 0.0, 4.5],
+      "fixed": true
+    },
+    {
+      "mac": "2C:D2:6B:69:43:05",
+      "type": "client",
+      "location": "salon",
+      "roomId": "salon_01",
+      "pos": [5.2, 0.0, 6.8],
+      "fixed": true,
+      "assoc_aps": ["6C:44:2A:92:B7:D0"]         /* MiBox tipleri için */
+    },
+    {
+      "mac": "48:51:B7:33:C7:19",
+      "type": "laptop",
+      "location": "yatakodasi",
+      "roomId": "yatak_01",
+      "pos": [2.0, 0.0, 3.5],
+      "fixed": true
+    },
+    {
+      "mac": "1C:BF:CE:50:1A:A0",
+      "type": "pc",
+      "location": "calismaodasi",
+      "roomId": "calisma_01",
+      "pos": [13.0, 0.0, 4.0],
+      "fixed": true
+    },
+    {
+      "mac": "34:12:F9:72:84:81",
+      "type": "phone",
+      "location": "balkon",
+      "roomId": "balkon_01",
+      "pos": [0.5, 0.0, 1.2],
+      "fixed": true
+    },
+    {
+      "mac": "B2:E6:45:EF:15:0A",
+      "type": "phone",
+      "location": "koridor",
+      "roomId": "koridor_01",
+      "pos": [7.0, 0.0, 2.2],
+      "fixed": true
+    }
+  ]
+}
