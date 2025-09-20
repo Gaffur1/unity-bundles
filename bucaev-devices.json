@@ -7,7 +7,7 @@
       "type": "AP",
       "location": "calismaodasi",
       "roomId": "calisma_01",
-      "pos": [12.3, 0.0, 4.5],
+      "pos": { "x": 12.3, "y": 0.0, "z": 4.5 },
       "fixed": true
     },
     {
@@ -15,16 +15,16 @@
       "type": "client",
       "location": "salon",
       "roomId": "salon_01",
-      "pos": [5.2, 0.0, 6.8],
+      "pos": { "x": 5.2, "y": 0.0, "z": 6.8 },
       "fixed": true,
-      "assoc_aps": ["6C:44:2A:92:B7:D0"]         /* MiBox tipleri için */
+      "assoc_aps": ["6C:44:2A:92:B7:D0"]
     },
     {
       "mac": "48:51:B7:33:C7:19",
       "type": "laptop",
       "location": "yatakodasi",
       "roomId": "yatak_01",
-      "pos": [2.0, 0.0, 3.5],
+      "pos": { "x": 2.0, "y": 0.0, "z": 3.5 },
       "fixed": true
     },
     {
@@ -32,7 +32,7 @@
       "type": "pc",
       "location": "calismaodasi",
       "roomId": "calisma_01",
-      "pos": [13.0, 0.0, 4.0],
+      "pos": { "x": 13.0, "y": 0.0, "z": 4.0 },
       "fixed": true
     },
     {
@@ -40,7 +40,7 @@
       "type": "phone",
       "location": "balkon",
       "roomId": "balkon_01",
-      "pos": [0.5, 0.0, 1.2],
+      "pos": { "x": 0.5, "y": 0.0, "z": 1.2 },
       "fixed": true
     },
     {
@@ -48,7 +48,7 @@
       "type": "phone",
       "location": "koridor",
       "roomId": "koridor_01",
-      "pos": [7.0, 0.0, 2.2],
+      "pos": { "x": 7.0, "y": 0.0, "z": 2.2 },
       "fixed": true
     }
   ]
