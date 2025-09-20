@@ -2,6 +2,7 @@
        "bundles": [
            "SampleApartment.bundle",
            "SampleBuilding.bundle",
-            "SampleVilla.bundle"
+            "SampleVilla.bundle",
+          "BucaforNav.bundle"
        ]
    }
