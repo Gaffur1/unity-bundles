@@ -3,7 +3,6 @@
   "building": "ev1",
   "devices": [
     {
-        "ssid": "SUPERONLINE_WiFi_75A7",
         "mac": "6C:44:2A:92:B7:D0",
         "type": "AP",
         "location": "calismaodasi",
@@ -21,7 +20,6 @@
       "assoc_aps": ["6C:44:2A:92:B7:D0"]         /* MiBox tipleri için */
     },
     {
-        "ssid": "DESKTOP-BPMNOMO 3330",
         "mac": "48:51:B7:33:C7:19",
         "type": "laptop",
         "location": "yatakodasi",
@@ -46,7 +44,6 @@
       "fixed": true
     },
     {
-        "ssid": "Redmi 12",
         "mac": "B2:E6:45:EF:15:0A",
         "type": "phone",
         "location": "koridor",
