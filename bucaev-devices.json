@@ -3,6 +3,7 @@
   "building": "ev1",
   "devices": [
     {
+        "ssid": "SUPERONLINE_WiFi_75A7",
         "mac": "6C:44:2A:92:B7:D0",
         "type": "AP",
         "location": "calismaodasi",
@@ -11,15 +12,17 @@
         "fixed": true
     },
     {
-      "mac": "2C:D2:6B:69:43:05",
-      "type": "client",
-      "location": "salon",
-      "roomId": "salon_01",
-      "pos": [5.2, 0.0, 6.8],
-      "fixed": true,
-      "assoc_aps": ["6C:44:2A:92:B7:D0"]         /* MiBox tipleri için */
+        "ssid": "asd",
+        "mac": "2C:D2:6B:69:43:05",
+        "type": "client",
+        "location": "salon",
+        "roomId": "salon_01",
+        "pos": [ 5.2, 0.0, 6.8 ],
+        "fixed": true,
+        "assoc_aps": [ "6C:44:2A:92:B7:D0" ] /* MiBox tipleri için */
     },
     {
+        "ssid": "DESKTOP-BPMNOMO 3330",
         "mac": "48:51:B7:33:C7:19",
         "type": "laptop",
         "location": "yatakodasi",
@@ -28,22 +31,25 @@
         "fixed": true
     },
     {
-      "mac": "1C:BF:CE:50:1A:A0",
-      "type": "pc",
-      "location": "calismaodasi",
-      "roomId": "calisma_01",
-      "pos": [13.0, 0.0, 4.0],
-      "fixed": true
+        "ssid": "sfa",
+        "mac": "1C:BF:CE:50:1A:A0",
+        "type": "pc",
+        "location": "calismaodasi",
+        "roomId": "calisma_01",
+        "pos": [ 13.0, 0.0, 4.0 ],
+        "fixed": true
     },
     {
-      "mac": "34:12:F9:72:84:81",
-      "type": "phone",
-      "location": "balkon",
-      "roomId": "balkon_01",
-      "pos": [0.5, 0.0, 1.2],
-      "fixed": true
+        "ssid": "213",
+        "mac": "34:12:F9:72:84:81",
+        "type": "phone",
+        "location": "balkon",
+        "roomId": "balkon_01",
+        "pos": [ 0.5, 0.0, 1.2 ],
+        "fixed": true
     },
     {
+        "ssid": "Redmi 12",
         "mac": "B2:E6:45:EF:15:0A",
         "type": "phone",
         "location": "koridor",
