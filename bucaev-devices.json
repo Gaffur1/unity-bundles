@@ -12,14 +12,13 @@
             "fixed": true
         },
         {
-            "ssid": "asd",
-            "mac": "2C:D2:6B:69:43:05",
+            "ssid": "HONOR 200",
+            "mac": "26:7D:5B:4E:AB:2E",
             "type": "client",
             "location": "salon",
             "roomId": "salon_01",
             "pos": [ 5.2, 0.0, 6.8 ],
             "fixed": true,
-            "assoc_aps": [ "6C:44:2A:92:B7:D0" ]
         },
         {
             "ssid": "DESKTOP-BPMNOMO 3330",
