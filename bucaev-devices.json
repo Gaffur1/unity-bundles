@@ -18,7 +18,7 @@
             "location": "salon",
             "roomId": "salon_01",
             "pos": [ 5.2, 0.0, 6.8 ],
-            "fixed": true,
+            "fixed": true
         },
         {
             "ssid": "DESKTOP-BPMNOMO 3330",
