@@ -39,15 +39,6 @@
             "fixed": true
         },
         {
-            "ssid": "213",
-            "mac": "34:12:F9:72:84:81",
-            "type": "phone",
-            "location": "balkon",
-            "roomId": "balkon_01",
-            "pos": [ 0.5, 0.0, 1.2 ],
-            "fixed": true
-        },
-        {
             "ssid": "Redmi 12",
             "mac": "B2:E6:45:EF:15:0A",
             "type": "phone",
@@ -58,3 +49,4 @@
         }
     ]
 }
+
