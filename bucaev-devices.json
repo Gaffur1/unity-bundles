@@ -30,12 +30,12 @@
             "fixed": true
         },
         {
-            "ssid": "sfa",
-            "mac": "1C:BF:CE:50:1A:A0",
-            "type": "pc",
-            "location": "calismaodasi",
-            "roomId": "calisma_01",
-            "pos": [ 13.0, 0.0, 4.0 ],
+            "ssid": "SELEN 3272",
+            "mac": "F4:B3:01:40:EC:D2",
+            "type": "laptop",
+            "location": "salon",
+            "roomId": "salon_01",
+            "pos": [ 5.0, 0.0, 4.5 ],
             "fixed": true
         },
         {
