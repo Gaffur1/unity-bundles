@@ -6,9 +6,9 @@
             "ssid": "SUPERONLINE_WiFi_75A7",
             "mac": "6C:44:2A:92:B7:D0",
             "type": "AP",
-            "location": "calismaodasi",
-            "roomId": "calisma_01",
-            "pos": [ 12.3, 0.0, 4.5 ],
+            "location": "yatakodasi",
+            "roomId": "yatak_01",
+            "pos": [ 7.5, 0.0, -2.0 ],
             "fixed": true
         },
         {
@@ -17,25 +17,25 @@
             "type": "client",
             "location": "salon",
             "roomId": "salon_01",
-            "pos": [ 5.2, 0.0, 6.8 ],
+            "pos": [ 9.0, 0.0, 0.0 ],
             "fixed": true
         },
         {
             "ssid": "DESKTOP-BPMNOMO 3330",
             "mac": "48:51:B7:33:C7:19",
             "type": "laptop",
-            "location": "yatakodasi",
-            "roomId": "yatak_01",
-            "pos": [ 2.0, 0.0, 3.5 ],
+            "location": "calismaodasi",
+            "roomId": "calisma_01",
+            "pos": [ 3.5, 0.0, -2.0 ],
             "fixed": true
         },
         {
             "ssid": "SELEN 3272",
             "mac": "F4:B3:01:40:EC:D2",
             "type": "laptop",
-            "location": "salon",
-            "roomId": "salon_01",
-            "pos": [ 5.0, 0.0, 4.5 ],
+            "location": "balkon",
+            "roomId": "balkon_01",
+            "pos": [ 9.5, 0.0, 3.0 ],
             "fixed": true
         },
         {
@@ -44,9 +44,8 @@
             "type": "phone",
             "location": "koridor",
             "roomId": "koridor_01",
-            "pos": [ 7.0, 0.0, 2.2 ],
+            "pos": [ 5.5, 0.0, 3.0 ],
             "fixed": true
         }
     ]
 }
-
