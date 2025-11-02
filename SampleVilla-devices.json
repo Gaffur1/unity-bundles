@@ -5,7 +5,7 @@
         {
             "ssid": "asd",
             "mac": "6C:44:2A:92:B7:D0",
-            "type": "CLIENT",
+            "type": "AP",
             "location": "yatakodasi",
             "roomId": "yatak_01",
             "pos": [ 20.0, 3.0, 6.0 ],
@@ -14,7 +14,7 @@
         {
             "ssid": "dsa",
             "mac": "2C:D2:6B:69:43:05",
-            "type": "AP",
+            "type": "client",
             "location": "salon",
             "roomId": "salon_01",
             "pos": [ 9.0, 0.0, 0.0 ],
@@ -23,25 +23,16 @@
         {
             "ssid": "wes",
             "mac": "48:51:B7:33:C7:19",
-            "type": "LAPTOP",
+            "type": "laptop",
             "location": "calismaodasi",
             "roomId": "calisma_01",
             "pos": [ 3.5, 0.0, -2.0 ],
             "fixed": true
         },
         {
-            "ssid": "wfa",
-            "mac": "F4:B3:01:40:EC:D2",
-            "type": "LAPTOP",
-            "location": "balkon",
-            "roomId": "balkon_01",
-            "pos": [ 9.5, 0.0, 3.0 ],
-            "fixed": true
-        },
-        {
             "ssid": "weqf",
             "mac": "B2:E6:45:EF:15:0A",
-            "type": "PHONE",
+            "type": "phone",
             "location": "koridor",
             "roomId": "koridor_01",
             "pos": [ 5.5, 0.0, 3.0 ],
