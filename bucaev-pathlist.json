@@ -1,0 +1,81 @@
+{
+    "routes": [
+        {
+            "name": "Cıkıslar",
+            "stops": [
+                {
+                    "name": "Giriş",
+                    "position": {
+                    }
+                },
+                {
+                    "name": "Balkon",
+                    "position": {
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Modemler",
+            "stops": [
+                {
+                    "name": "Modem",
+                    "position": {
+                        "x": 7.5,
+                        "y": 0.0,
+                        "z": -2.0
+                    }
+                },
+                {
+                    "name": "Telefon",
+                    "position": {
+                        "x": 5.5,
+                        "y": 0.0,
+                        "z": 3.0
+                    }
+                },
+                {
+                    "name": "Laptop",
+                    "position": {
+                        "x": 3.5,
+                        "y": 0.0,
+                        "z": -2.0
+                    }
+                },
+                {
+                    "name": "PC",
+                    "position": {
+                        "x": 9.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Odalar",
+            "stops": [
+                {
+                    "name": "Salon",
+                    "position": {
+                    }
+                },
+                {
+                    "name": "Oda 1",
+                    "position": {
+                    }
+                },
+                {
+                    "name": "Oda 2",
+                    "position": {
+                    }
+                },
+                {
+                    "name": "Banyo",
+                    "position": {
+                    }
+                }
+            ]
+        }
+    ]
+}
