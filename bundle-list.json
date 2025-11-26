@@ -1,6 +1,7 @@
    {
        "bundles": [
            "SampleApartment.bundle",
+                     "GLB Test",
           "SampleBuilding.bundle",
           "SampleVilla.bundle",
           "bucaev.bundle"
