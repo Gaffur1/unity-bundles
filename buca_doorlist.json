@@ -1,8 +1,4 @@
-﻿{
-  "building": "buca",
-  "generatedAt": "2025-11-29T13:36:40.6932620Z",
-  "meshCount": 25,
-  "doorSchedule": [
+[
     {
       "id": 350917,
       "mark": "Salon",
@@ -60,4 +56,3 @@
       "z": 0.0
     }
   ]
-}
