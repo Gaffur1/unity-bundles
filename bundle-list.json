@@ -1,7 +1,7 @@
    {
        "bundles": [
-          "villa_model.glb",
-          "buca_model.glb",
+          "villa.glb",
+          "buca.glb",
            "SampleApartment.bundle",
                      "GLBTest.glb",
           "SampleBuilding.bundle",
