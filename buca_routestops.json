@@ -1,0 +1,66 @@
+[
+  {
+    "StopID": "Bedroom",
+    "StopGroup": "1",
+    "StopNote": "asdkldjsalkşda",
+    "LocX": 5.4584539203135893,
+    "LocY": -1.4923978445910655,
+    "LocZ": 0.0
+  },
+  {
+    "StopID": "LivingRoom",
+    "StopGroup": "1",
+    "StopNote": "cxvsdfsdfs",
+    "LocX": 5.5834539203135858,
+    "LocY": 0.83960215540891936,
+    "LocZ": 0.0
+  },
+  {
+    "StopID": "Bedroom 2",
+    "StopGroup": "1",
+    "StopNote": "asdkldjsalkşda",
+    "LocX": 4.4234539203135963,
+    "LocY": -0.90239784459107786,
+    "LocZ": 0.0
+  },
+  {
+    "StopID": "Bathroom",
+    "StopGroup": "2",
+    "StopNote": "nvccvbfd132312",
+    "LocX": 4.4234539203135972,
+    "LocY": 0.37260215540893876,
+    "LocZ": 0.0629301733215682
+  },
+  {
+    "StopID": "Storage",
+    "StopGroup": "2",
+    "StopNote": "gh45b6435 1b4123b4124b12 1b3412b4ş1ml 1b4jbş1lb3241",
+    "LocX": 4.4234539203135892,
+    "LocY": 2.5326021554089393,
+    "LocZ": 0.040484873542073967
+  },
+  {
+    "StopID": "Entrance",
+    "StopGroup": "2",
+    "StopNote": "sadawd qwd qwdas213",
+    "LocX": 5.4584539203135964,
+    "LocY": 4.0926021554089367,
+    "LocZ": 4.331468517193571E-15
+  },
+  {
+    "StopID": "Kitchen",
+    "StopGroup": "2",
+    "StopNote": "1b4sadasb",
+    "LocX": 6.8584539203135906,
+    "LocY": 1.9576021554089071,
+    "LocZ": 0.0
+  },
+  {
+    "StopID": "Balcony",
+    "StopGroup": "2",
+    "StopNote": "12b312b2sadb b214asdbqs",
+    "LocX": 9.1834539203135872,
+    "LocY": 3.4076021554089229,
+    "LocZ": 0.0
+  }
+]

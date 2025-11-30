@@ -1,0 +1,68 @@
+[
+  {
+    "MarkerType": "QR",
+    "MarkerDescription": "Start Location",
+    "LocX": 3.5734539203135953,
+    "LocY": 5.2176021554089216,
+    "LocZ": 0.0,
+    "forwardX": 1.8873791418627657E-15,
+    "forwardY": -1.0,
+    "forwardZ": 0.0,
+    "yawDegrees": -89.9999999999999
+  },
+  {
+    "MarkerType": "QR",
+    "MarkerDescription": "Start Location",
+    "LocX": 3.6984539203135891,
+    "LocY": -1.9873978445910807,
+    "LocZ": 0.0,
+    "forwardX": 1.0,
+    "forwardY": 0.0,
+    "forwardZ": 0.0,
+    "yawDegrees": 0.0
+  },
+  {
+    "MarkerType": "Color Marker",
+    "MarkerDescription": "Yellow",
+    "LocX": 10.418453920313592,
+    "LocY": 1.5326021554089095,
+    "LocZ": 0.0,
+    "forwardX": 1.8873791418627657E-15,
+    "forwardY": -1.0,
+    "forwardZ": 0.0,
+    "yawDegrees": -89.9999999999999
+  },
+  {
+    "MarkerType": "Color Marker",
+    "MarkerDescription": "Blue",
+    "LocX": 9.51845392031359,
+    "LocY": 3.6926021554089195,
+    "LocZ": 0.0,
+    "forwardX": 1.0,
+    "forwardY": 0.0,
+    "forwardZ": 0.0,
+    "yawDegrees": 0.0
+  },
+  {
+    "MarkerType": "Color Marker",
+    "MarkerDescription": "Red",
+    "LocX": 8.6734539203135927,
+    "LocY": 2.2926021554089258,
+    "LocZ": 0.0,
+    "forwardX": -1.0,
+    "forwardY": 3.2310891488651735E-15,
+    "forwardZ": 0.0,
+    "yawDegrees": 179.99999999999983
+  },
+  {
+    "MarkerType": "Color Marker",
+    "MarkerDescription": "Green",
+    "LocX": 2.453453920313597,
+    "LocY": 1.4376021554089193,
+    "LocZ": 0.0,
+    "forwardX": 1.0,
+    "forwardY": 0.0,
+    "forwardZ": 0.0,
+    "yawDegrees": 0.0
+  }
+]
