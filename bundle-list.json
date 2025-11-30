@@ -1,5 +1,6 @@
    {
        "bundles": [
+          "Buca_model.glb",
            "SampleApartment.bundle",
                      "GLBTest.glb",
           "SampleBuilding.bundle",
