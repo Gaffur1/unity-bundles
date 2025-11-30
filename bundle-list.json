@@ -1,7 +1,7 @@
    {
        "bundles": [
           "villa",
-          "buca",
+          "bucasad",
            "SampleApartment.bundle",
                      "GLBTest.glb",
           "SampleBuilding.bundle",
