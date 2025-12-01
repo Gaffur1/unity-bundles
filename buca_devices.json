@@ -1,0 +1,42 @@
+[
+  {
+    "DeviceSSID": "Redmi 12",
+    "DeviceMAC": "B2:E6:45:EF:15:0A",
+    "DeviceType": "Phone",
+    "LocX": 5.6534539203135941,
+    "LocY": 2.4126021554089325,
+    "LocZ": 0.0
+  },
+  {
+    "DeviceSSID": "SUPERONLINE_WiFi_75A7",
+    "DeviceMAC": "6C:44:2A:92:B7:D0",
+    "DeviceType": "AP",
+    "LocX": 8.0584539203135979,
+    "LocY": -1.8073978445910848,
+    "LocZ": 0.0
+  },
+  {
+    "DeviceSSID": "DESKTOP-BPMNOMO 3330",
+    "DeviceMAC": "48:51:B7:33:C7:19",
+    "DeviceType": "Laptop",
+    "LocX": 3.9184539203135889,
+    "LocY": -1.9673978445910707,
+    "LocZ": 0.0
+  },
+  {
+    "DeviceSSID": "HONOR 200",
+    "DeviceMAC": "2C:D2:6B:69:43:05",
+    "DeviceType": "Phone",
+    "LocX": 8.6584539203135922,
+    "LocY": 1.6926021554089161,
+    "LocZ": 0.0
+  },
+  {
+    "DeviceSSID": "SELEN 3272",
+    "DeviceMAC": "F4:B3:01:40:EC:D2",
+    "DeviceType": "Laptop",
+    "LocX": 10.418453920313588,
+    "LocY": 3.7926021554089182,
+    "LocZ": 0.0
+  }
+]
