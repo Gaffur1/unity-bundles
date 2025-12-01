@@ -1,0 +1,26 @@
+[
+  {
+    "DeviceSSID": "Phone",
+    "DeviceMAC": "",
+    "DeviceType": "Phone",
+    "LocX": 2.2869315174376177,
+    "LocY": -0.56659397858170524,
+    "LocZ": 0.940757598299765
+  },
+  {
+    "DeviceSSID": "Phone",
+    "DeviceMAC": "",
+    "DeviceType": "Phone",
+    "LocX": 10.461931517437613,
+    "LocY": -13.781593978581704,
+    "LocZ": 0.0
+  },
+  {
+    "DeviceSSID": "Modem",
+    "DeviceMAC": "123 sa",
+    "DeviceType": "AP",
+    "LocX": 8.0009315174376336,
+    "LocY": 1.548406021418379,
+    "LocZ": 2.9999999999999991
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "MarkerType": "",
+    "MarkerDescription": "",
+    "LocX": 9.8009315174376344,
+    "LocY": 2.6984060214182417,
+    "LocZ": 0.0,
+    "forwardX": 1.0,
+    "forwardY": 0.0,
+    "forwardZ": 0.0,
+    "yawDegrees": 0.0
+  },
+  {
+    "MarkerType": "",
+    "MarkerDescription": "",
+    "LocX": 7.2599315174376233,
+    "LocY": -5.8815939785816891,
+    "LocZ": 0.0,
+    "forwardX": 1.3877787807814457E-15,
+    "forwardY": 1.0,
+    "forwardZ": 0.0,
+    "yawDegrees": 89.999999999999929
+  },
+  {
+    "MarkerType": "",
+    "MarkerDescription": "",
+    "LocX": 10.904454617490538,
+    "LocY": 3.268406021418373,
+    "LocZ": 3.0000000000000004,
+    "forwardX": -1.0,
+    "forwardY": 4.0523140398818214E-15,
+    "forwardZ": 0.0,
+    "yawDegrees": 179.9999999999998
+  }
+]
