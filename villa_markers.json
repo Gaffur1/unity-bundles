@@ -11,8 +11,8 @@
     "yawDegrees": 0.0
   },
   {
-    "MarkerType": "",
-    "MarkerDescription": "",
+    "MarkerType": "QR",
+    "MarkerDescription": "Start Location",
     "LocX": 7.2599315174376233,
     "LocY": -5.8815939785816891,
     "LocZ": 0.0,
@@ -22,8 +22,8 @@
     "yawDegrees": 89.999999999999929
   },
   {
-    "MarkerType": "",
-    "MarkerDescription": "",
+    "MarkerType": "Dropdown",
+    "MarkerDescription": "Start Location",
     "LocX": 10.904454617490538,
     "LocY": 3.268406021418373,
     "LocZ": 3.0000000000000004,
