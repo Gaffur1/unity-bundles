@@ -2,7 +2,7 @@
   {
     "StopID": "LR",
     "StopGroup": "1",
-    "StopNote": "",
+    "StopNote": " awdawasdzxcwq esda sd awe wadsadasd",
     "LocX": 11.061931517437623,
     "LocY": -7.3015939785817681,
     "LocZ": 0.0
@@ -10,7 +10,7 @@
   {
     "StopID": "Terrace",
     "StopGroup": "2",
-    "StopNote": "",
+    "StopNote": "asdddwdqwdwq dsaas das",
     "LocX": 9.5009315174376248,
     "LocY": -11.703593978581548,
     "LocZ": 3.0000000000000004
@@ -18,7 +18,7 @@
   {
     "StopID": "Balcony",
     "StopGroup": "2",
-    "StopNote": "",
+    "StopNote": " dqw da wa dasd w ad wad wadwadawda",
     "LocX": -5.9880684825623876,
     "LocY": -2.1415939785817879,
     "LocZ": 3.0000000000000004
@@ -26,9 +26,10 @@
   {
     "StopID": "Kitchen",
     "StopGroup": "1",
-    "StopNote": "",
+    "StopNote": "a sdas dqw a das acwa edwad wa",
     "LocX": 3.3369315174376171,
     "LocY": -1.126693978581629,
     "LocZ": 0.0
   }
+
 ]
