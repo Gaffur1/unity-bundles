@@ -1,10 +1,7 @@
-{
-    "Items": [
-        {
-            "ssid": "ANDROID_c3e5bf5bdd6b3ef3_HUAWEI SNE-LX1",
-            "x": 0.0,
-            "y": 0.0,
-            "z": 0.0,
-            "timestamp": "2025-12-15T11:18:00.9468860Z"
-        }
-    ]
+{"items":[
+{"key":"GENERIC_84777311a3e9c927fd248f01b2cf542c01c28600_TULPAR T7 (Monster Notebook)","sessions":[
+{"sessionId":"20251215_112055","records":[
+{"x":-13.22,"y":8.79,"z":-25.89,"timestamp":"2025-12-15T11:21:01.1531500Z"}
+]}
+]}
+]}
