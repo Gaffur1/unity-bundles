@@ -2,7 +2,7 @@
   {
     "DeviceSSID": "Redmi 12",
     "DeviceMAC": "B2:E6:45:EF:15:0A",
-    "DeviceType": "Phone",
+    "DeviceType": "BT",
     "LocX": 5.6534539203135941,
     "LocY": 2.4126021554089325,
     "LocZ": 0.0
@@ -26,7 +26,7 @@
   {
     "DeviceSSID": "HONOR 200",
     "DeviceMAC": "2C:D2:6B:69:43:05",
-    "DeviceType": "Phone",
+    "DeviceType": "Bluetooth",
     "LocX": 8.6584539203135922,
     "LocY": 1.6926021554089161,
     "LocZ": 0.0
@@ -39,4 +39,5 @@
     "LocY": 3.7926021554089182,
     "LocZ": 0.0
   }
+
 ]
