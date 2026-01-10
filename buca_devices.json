@@ -41,8 +41,8 @@
   },
   {
     "DeviceSSID": "WhiteTag",
-    "DeviceMAC": "",
-    "DeviceType": "BLETag",
+    "DeviceMAC": "FF:FF:45:84:6L",
+    "DeviceType": "BLe",
     "LocX": 8.0184539203136,
     "LocY": -2.0673978445910843,
     "LocZ": 0.0
@@ -57,3 +57,4 @@
   }
 
 ]
+
