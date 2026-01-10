@@ -49,10 +49,11 @@
   },
   {
     "DeviceSSID": "BlackTag",
-    "DeviceMAC": "",
+    "DeviceMAC": "FF:FF:11:9B:83:AF",
     "DeviceType": "BLETag",
     "LocX": 3.9984539203135876,
     "LocY": -3.6673978445910826,
     "LocZ": 0.0
   }
+
 ]
