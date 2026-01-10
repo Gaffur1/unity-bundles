@@ -41,7 +41,7 @@
   },
   {
     "DeviceSSID": "WhiteTag",
-    "DeviceMAC": "FF:FF:45:84:6L",
+    "DeviceMAC": "FF:FF:11:78:CB:D3",
     "DeviceType": "BLe",
     "LocX": 8.0184539203136,
     "LocY": -2.0673978445910843,
@@ -57,4 +57,5 @@
   }
 
 ]
+
 
