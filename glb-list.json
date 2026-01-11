@@ -1,0 +1,10 @@
+   {
+       "bundles": [
+          "villa.glb",
+          "buca.glb",
+           "SampleApartment.bundle",
+          "SampleBuilding.bundle",
+          "SampleVilla.bundle",
+          "bucaev.bundle"
+       ]
+   }
