@@ -25,7 +25,7 @@
   },
   {
     "DeviceSSID": "PinkTag",
-    "DeviceMAC": "",
+    "DeviceMAC": "FF:FF:11:A2:F0:A5",
     "DeviceType": "BLETag",
     "LocX": 8.6584539203135922,
     "LocY": 1.6926021554089161,
@@ -57,5 +57,6 @@
   }
 
 ]
+
 
 
