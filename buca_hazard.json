@@ -1,7 +1,7 @@
 [
   {
     "id": "fire_01",
-    "minX": 6,
+    "minX": 3,
     "minY": 2,
     "minZ": 0,
     "maxX": 3,
@@ -10,5 +10,6 @@
     "severity": 0.8
   }
 ]
+
 
 
