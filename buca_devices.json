@@ -23,17 +23,9 @@
     "LocY": -1.9673978445910707,
     "LocZ": 0.0
   },
-    {
-    "DeviceSSID": "miBand",
-    "DeviceMAC": "EE:63:45:7D:0A:79",
-    "DeviceType": "BT",
-    "LocX": 5.6534539203135941,
-    "LocY": 2.4126021554089325,
-    "LocZ": 0.0
-  },
   {
     "DeviceSSID": "PinkTag",
-    "DeviceMAC": "FF:FF:11:A2:F0:A5",
+    "DeviceMAC": "",
     "DeviceType": "BLETag",
     "LocX": 8.6584539203135922,
     "LocY": 1.6926021554089161,
@@ -43,14 +35,14 @@
     "DeviceSSID": "SELEN 3272",
     "DeviceMAC": "F4:B3:01:40:EC:D2",
     "DeviceType": "Laptop",
-    "LocX": 10.418453920313588,
-    "LocY": 3.7926021554089182,
+    "LocX": 9.2784539203135878,
+    "LocY": 3.7926021554089191,
     "LocZ": 0.0
   },
   {
     "DeviceSSID": "WhiteTag",
     "DeviceMAC": "FF:FF:11:78:CB:D3",
-    "DeviceType": "BLe",
+    "DeviceType": "BLETag",
     "LocX": 8.0184539203136,
     "LocY": -2.0673978445910843,
     "LocZ": 0.0
@@ -63,10 +55,4 @@
     "LocY": -3.6673978445910826,
     "LocZ": 0.0
   }
-
 ]
-
-
-
-
-

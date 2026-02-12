@@ -1,6 +1,6 @@
 [
   {
-    "MarkerType": "Dropdown",
+    "MarkerType": "QR",
     "MarkerDescription": "Start Location",
     "LocX": 3.5734539203135953,
     "LocY": 5.2176021554089216,
@@ -65,5 +65,4 @@
     "forwardZ": 0.0,
     "yawDegrees": 0.0
   }
-
 ]
